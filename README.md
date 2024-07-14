@@ -12,7 +12,7 @@
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 [![@im-krizox/crm-graphql-backend][backend-badge]][backend-url]
 
-[backend-badge]: https://img.shields.io/badge/GitHub-181717?style=flat&logo=github
+[backend-badge]: https://img.shields.io/badge/Backend-181717?style=flat&logo=github
 [backend-url]: https://github.com/im-krizox/crm-graphql-backend
 
 </div>

@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://crm-graphql-frontend-psi.vercel.app/nuevacuenta">
-        <img src=".public/quickly-crm.webp">
+        <img src="./public/quickly-crm.webp">
     </a>
 </div>
 

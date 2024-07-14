@@ -1,4 +1,4 @@
-# CRM con GraphQL
+# 📊 CRM con GraphQL
 
 <div align="center">
     <a href="https://crm-graphql-frontend-psi.vercel.app/nuevacuenta">
